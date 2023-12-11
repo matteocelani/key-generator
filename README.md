@@ -41,3 +41,15 @@ npm run test
 ```
 
 Tests are implemented using Jest and are located in the `test` folder.
+
+## Example
+
+This is an example of the output of the program:
+
+```bash
+Address: 0x859bd5466a14f9c1c97ee332ecd12159b0e138c3
+Address (checksum): 0x859BD5466a14f9c1C97Ee332ECD12159B0E138C3
+ICAP: XE02 FLUN OUVS DTHS SET8 MYUT 97NU 0PAY APV
+Public Key: 040cb262c3b7326f0bd551064da5dd43cfddf111191b0a42407c525aaa54ae277faa90bd2bf44901a65c925b46a51c0e04b877c1ac9d1f10267616bf26ecf0c12d
+Private Key: 3e7122b06308ba9ad7c1230237d793fc11267fd8cc7dd158f340fa9db13b002b
+```
